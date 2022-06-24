@@ -53,5 +53,70 @@ Project Organization
 
 
 --------
+Data Science
+Project 1:
+
+A) Problem Statement
+
+Our Client is an IT educational institute. They had reached out with the following:
+
+"IT jobs and technologies evolving quickly. This makes our field to be one of the most interesting out there.
+But on the other hand, Such fast development confuses our students. They don't know which skills they need to learn for which job."
+
+"D I need to learn C++ to be a data scientist?" "Do DevOps and System Admins use the same technologies?"
+"I really like Javascript; can I use it in Data Analytics?"
+Those are some questions asked by our students.
+
+Could you please develop a data-driven solution for our students to answer such questions? They mostly want to understand the relationships between the jobs and the technologies.
+
+
+B) Business Case
+
+Our client needs KPIs that we will positivly impact.
+
+1. Higher enrollment rate due to higher certainty
+2. Decrease in drop-out rate
+3. Time saved for the academic advisors
+
+
+C) Data
+
+Which Data source will we use? Where tp start.
+
+Dataset Search from Google
+https://datasetsearch.research.google.com
+
+
+Be careful:
+
+- Be through the quality checks
+- Make sure your Data will be updated on a regular base
+
+
+Data Source 
+
+chosen: Stack Overflow developers survey
+https://insights.stackoverflow.com/survey/2021
+
+
+
+# Foundations
+
+1. Legal & Data privacy check
+	-Global:
+	-Local:
+
+
+2. Structturing Our Project
+https://github.com/drivendata/cookiecutter-data-science
+
+
+3. Our Git Repo
+
+
+4. Processing
+
+	00_Explatory Notebook
+	01_Preprocessing
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
