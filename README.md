@@ -53,10 +53,10 @@ Project Organization
 
 
 --------
-Data Science
-Project 1:
 
-A) Problem Statement
+# Educational Institute Usecase:
+
+## A) Problem Statement
 
 Our Client is an IT educational institute. They had reached out with the following:
 
@@ -70,16 +70,16 @@ Those are some questions asked by our students.
 Could you please develop a data-driven solution for our students to answer such questions? They mostly want to understand the relationships between the jobs and the technologies.
 
 
-B) Business Case
+## B) Business Case
 
 Our client needs KPIs that we will positivly impact.
 
-1. Higher enrollment rate due to higher certainty
-2. Decrease in drop-out rate
-3. Time saved for the academic advisors
+ 1. Higher enrollment rate due to higher certainty
+ 2. Decrease in drop-out rate
+ 3. Time saved for the academic advisors
 
 
-C) Data
+## C) Data
 
 Which Data source will we use? Where tp start.
 
@@ -87,36 +87,35 @@ Dataset Search from Google
 https://datasetsearch.research.google.com
 
 
-Be careful:
+## Be careful:
 
 - Be through the quality checks
 - Make sure your Data will be updated on a regular base
 
 
-Data Source 
+### Data Source 
 
 chosen: Stack Overflow developers survey
 https://insights.stackoverflow.com/survey/2021
 
 
 
-# Foundations
+## Foundations
 
-1. Legal & Data privacy check
-	-Global:
-	-Local:
-
-
-2. Structturing Our Project
-https://github.com/drivendata/cookiecutter-data-science
+ ### 1. Legal & Data privacy check
+		-Global:
+		-Local:
 
 
-3. Our Git Repo
+ ### 2. Structturing Our Project
+	https://github.com/drivendata/cookiecutter-data-science
 
 
-4. Processing
+ ### 3. Our Git Repo
+
+
+## 4. Processing
 
 	00_Explatory Notebook
 	01_Preprocessing
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
