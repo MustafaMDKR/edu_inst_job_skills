@@ -119,3 +119,21 @@ https://insights.stackoverflow.com/survey/2021
 	00_Explatory Notebook
 	01_Preprocessing
 
+# Our Analytics Questions
+
+## As soon as we ask the right question we will get to a good answer.
+## We will start with our goal of this project
+
+	- General:
+		- Total number of  answers
+		- Geographical distributions
+		- Missing answers
+	- Skills:
+		- Frequency of each skill
+		- How are the skills correlated with each other
+	- Jobs:
+		- Frequency of each job
+		- How are the jobs correlated with each other
+	- Relation:
+		- How are the skills correlated with the jobs
+		- What is the specificity of each skill to job
